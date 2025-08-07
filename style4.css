@@ -1,0 +1,28 @@
+.menu-category {
+  margin-bottom: 40px;
+}
+
+.menu-category h3 {
+  color: #ff7043;
+  margin-bottom: 15px;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-list li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px dashed #ccc;
+  padding: 8px 0;
+  font-size: 1.05rem;
+}
+
+.menu-list li span:last-child {
+  font-weight: bold;
+  color: #555;
+}
+
+/* Dark*
